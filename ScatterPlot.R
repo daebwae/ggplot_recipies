@@ -4,7 +4,7 @@ library("ggplot2")
 ### Begin: change lines 
 ### 
 
-# generate test data: replace with your data
+# generate test data: replace the values with your data
 set.seed(42)
 x <- rnorm(7500, mean=4, sd = 4)
 y <- rnorm(7500, mean=1, sd = 3)
